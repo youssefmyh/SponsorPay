@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SponsorPay</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fieldisrequired">is required</string>
+    <string name="SponsorPay">SponsorPay</string>
+    <string name="submit">submit</string>
+    <string name="uid">User ID</string>
+    <string name="apikey">API Key</string>
+    <string name="appid">Application ID</string>
+    <string name="pub0">pub0</string>
+    <string name="locale">Locale</string>
+        <string name="ip">ip</string>
+    
+</resources>
